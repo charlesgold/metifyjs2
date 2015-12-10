@@ -1,26 +1,27 @@
 {
-  "name": "grunt-bower-starter",
-  "version": "1.0.0",
-  "description": "Starter project using Grunt, Bower, and Git with basic grunt plugins installed.",
+  "name": "metify2",
+  "version": "2.0.0",
+  "description": "Javascript class which allows Shopify store owners and/or developers the ability to block out product.content / product.description content.",
   "main": "app.htm",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ctopjian/grunt-bower-starter.git"
+    "url": "git+https://github.com/ctopjian/metifyjs.git"
   },
   "keywords": [
     "grunt",
     "bower",
-    "git"
+    "git",
+    "shopify"
   ],
   "author": "Charlie Topjian",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ctopjian/grunt-bower-starter/issues"
+    "url": "https://github.com/ctopjian/metifyjs/issues"
   },
-  "homepage": "https://github.com/ctopjian/grunt-bower-starter#readme",
+  "homepage": "https://github.com/ctopjian/metifyjs#readme",
   "devDependencies": {
     "grunt": "^0.4.5",
     "grunt-contrib-clean": "^0.7.0",
